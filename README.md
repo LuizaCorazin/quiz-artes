@@ -104,3 +104,38 @@ O aplicativo apresenta perguntas de múltipla escolha sobre a **Pop Art**.
 
 ![Pergunta 10](https://github.com/user-attachments/assets/33c26478-9128-4bb4-97e1-1e817e86709a)
 
+## ✅❌ Sistema de Resposta – Verdadeiro ou Falso
+
+O app possui um sistema simples de feedback para indicar se o usuário acertou ou errou a pergunta.
+
+---
+
+### ❌ Resposta Incorreta
+
+Quando o usuário erra:
+
+Link da imagem:
+https://github.com/user-attachments/assets/SEU-LINK-AQUI-ERRADO
+
+![Resposta errada](https://github.com/user-attachments/assets/SEU-LINK-AQUI-ERRADO)
+
+* Exibe a mensagem:
+  **“Ops, continue que na próxima vai”**
+* Mostra um ❌ grande na tela
+* Incentiva o usuário a continuar tentando
+
+---
+
+### ✅ Resposta Correta
+
+Quando o usuário acerta:
+
+Link da imagem:
+https://github.com/user-attachments/assets/SEU-LINK-AQUI-CERTO
+
+![Resposta correta](https://github.com/user-attachments/assets/SEU-LINK-AQUI-CERTO)
+
+* Exibe a mensagem:
+  **“Parabéns, aperte para continuar”**
+* Mostra um ✔️ verde
+* Permite avançar para a próxima pergunta
