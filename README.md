@@ -153,3 +153,7 @@ Link da imagem:
 * Botão **“Continue”** para encerrar ou reiniciar a experiência
 
 ----
+
+### Comentário do professor Rodrigo de artes
+
+* Gostou do nosso projeto, aprovou as respostas das perguntas e gostou do design do app. 
