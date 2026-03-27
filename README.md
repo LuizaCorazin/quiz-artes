@@ -115,9 +115,8 @@ O app possui um sistema simples de feedback para indicar se o usuário acertou o
 Quando o usuário erra:
 
 Link da imagem:
-https://github.com/user-attachments/assets/SEU-LINK-AQUI-ERRADO
+<img width="278" height="517" alt="Captura de tela 2026-03-25 170501" src="https://github.com/user-attachments/assets/7f07ca61-d085-446d-a4ba-8714990da58e" />
 
-![Resposta errada](https://github.com/user-attachments/assets/SEU-LINK-AQUI-ERRADO)
 
 * Exibe a mensagem:
   **“Ops, continue que na próxima vai”**
@@ -130,12 +129,27 @@ https://github.com/user-attachments/assets/SEU-LINK-AQUI-ERRADO
 
 Quando o usuário acerta:
 
-Link da imagem:
-https://github.com/user-attachments/assets/SEU-LINK-AQUI-CERTO
+Link da imagem:<img width="344" height="647" alt="Captura de tela 2026-03-27 075255" src="https://github.com/user-attachments/assets/10068b2e-cf31-4116-9c75-65bf8e2350b1" />
 
-![Resposta correta](https://github.com/user-attachments/assets/SEU-LINK-AQUI-CERTO)
 
 * Exibe a mensagem:
   **“Parabéns, aperte para continuar”**
 * Mostra um ✔️ verde
 * Permite avançar para a próxima pergunta
+
+## 🏁 Tela Final do Quiz
+
+Ao finalizar o quiz, o aplicativo apresenta uma tela de conclusão indicando o desempenho do usuário.
+
+Link da imagem:
+<img width="439" height="734" alt="image" src="https://github.com/user-attachments/assets/3a60ce4a-a435-47c3-8c30-986b01be741e" />
+
+
+---
+
+### 🎉 Mensagem exibida
+
+* **“Parabéns, você acertou”**
+* Botão **“Continue”** para encerrar ou reiniciar a experiência
+
+----
