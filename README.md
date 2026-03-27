@@ -22,13 +22,85 @@ O principal objetivo do app é:
 
 ### ✅ Tela Inicial
 
+![Tela inicial](https://github.com/user-attachments/assets/b81d917f-0598-410e-8e5b-6212aeec719f)
+
 * Exibe o título **“Quiz de Artes”**
-* Contém uma imagem temática relacionada à arte
+* Possui imagem temática
 * Botão **“Entrar”** para iniciar o quiz
 
-### ❓ Sistema de Perguntas
+---
 
-* Perguntas de múltipla escolha
-* Interface clara com alternativas em botões
-* Apenas uma alternativa correta por pergunta
+### ❓ Perguntas do Quiz
+
+O aplicativo apresenta perguntas de múltipla escolha sobre a **Pop Art**.
+
+#### 🧠 Exemplos de perguntas e respostas:
+
+📌 **O que foi a Pop Art?**
+✔️ Um movimento artístico inspirado na cultura popular
+
+![Pergunta 1](https://github.com/user-attachments/assets/1a74d7fc-0449-491c-aa91-3ed0afed2376)
+
+---
+
+📌 **Quando surgiu a Pop Art?**
+✔️ Década de 1960
+
+![Pergunta 2](https://github.com/user-attachments/assets/c32cf3e3-3525-4aad-95cb-a134ff69545e)
+
+---
+
+📌 **Principal artista da Pop Art:**
+✔️ Andy Warhol
+
+![Pergunta 3](https://github.com/user-attachments/assets/039cc20b-9f3d-4ebe-841e-aaae7ebd6651)
+
+---
+
+📌 **Característica marcante:**
+✔️ Uso de imagens de produtos e celebridades famosas
+
+![Pergunta 4](https://github.com/user-attachments/assets/c6749f15-9c4d-4758-acec-568d909c85df)
+
+---
+
+📌 **Obra famosa:**
+✔️ *Campbell’s Soup Cans*
+
+![Pergunta 5](https://github.com/user-attachments/assets/d7e7d2ac-f9e4-4749-b2da-84806f6e495a)
+
+---
+
+📌 **Principais influências:**
+✔️ Cultura popular e publicidade
+
+![Pergunta 6](https://github.com/user-attachments/assets/69b4ea4d-24b1-4f0b-9982-6ed64fae1d59)
+
+---
+
+📌 **Objetivo do movimento:**
+✔️ Criticar o consumo em massa
+
+![Pergunta 7](https://github.com/user-attachments/assets/d3b9a37e-8bc7-4243-911d-53e287f95b96)
+
+---
+
+📌 **Técnica utilizada:**
+✔️ Serigrafia
+
+![Pergunta 8](https://github.com/user-attachments/assets/27442a08-a60c-42b0-aec4-a1944bab3bb8)
+
+---
+
+📌 **Tema recorrente:**
+✔️ Cultura popular do consumo
+
+![Pergunta 9](https://github.com/user-attachments/assets/90c9ff0d-cda2-4921-832f-7e97204d6b4d)
+
+---
+
+📌 **Resumo do movimento:**
+✔️ Cultura popular e do consumo
+
+![Pergunta 10](https://github.com/user-attachments/assets/33c26478-9128-4bb4-97e1-1e817e86709a)
 
